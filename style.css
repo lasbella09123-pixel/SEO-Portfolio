@@ -190,3 +190,57 @@ footer p:last-child {
   color: #cbd5e1;
   font-size: 14px;
 }
+.case-study-detail {
+  max-width: 950px;
+  margin: 50px auto;
+  padding: 45px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.case-study-detail h1 {
+  font-size: 42px;
+  margin-bottom: 12px;
+  color: #0b1f3a;
+}
+
+.case-study-detail h2 {
+  font-size: 28px;
+  margin-top: 35px;
+  margin-bottom: 14px;
+  color: #123c8c;
+}
+
+.case-study-detail p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #1f2937;
+}
+
+.case-study-detail ul {
+  margin-top: 10px;
+  padding-left: 25px;
+}
+
+.case-study-detail li {
+  font-size: 17px;
+  line-height: 1.8;
+  margin-bottom: 8px;
+  color: #1f2937;
+}
+
+.case-study-detail .btn {
+  display: inline-block;
+  margin-top: 35px;
+  padding: 12px 22px;
+  background: #123c8c;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.case-study-detail .btn:hover {
+  background: #0b1f3a;
+}
