@@ -177,3 +177,16 @@ footer {
     font-size: 30px;
   }
 }
+.contact-info {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 22px;
+  border-radius: 12px;
+  max-width: 750px;
+  margin: 25px auto;
+}
+
+footer p:last-child {
+  margin-top: 8px;
+  color: #cbd5e1;
+  font-size: 14px;
+}
